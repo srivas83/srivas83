@@ -1,4 +1,4 @@
-# Hi, I'm Srinivasan
+# Hi, I'm Srinivasan Ravishankar
 
 I'm a product and technology leader with experience building large-scale financial technology, AI/ML, and data platforms.
 
